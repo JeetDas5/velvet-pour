@@ -6,6 +6,7 @@ import About from "./components/About.jsx";
 import Navbar from "./components/Navbar.jsx";
 import {ScrollTrigger, SplitText} from "gsap/all"
 import Cocktails from "./components/Cocktails.jsx";
+import Contact from "./components/Contact.jsx";
 
 gsap.registerPlugin(ScrollTrigger, SplitText);
 
@@ -19,6 +20,7 @@ const App = () => {
             <About/>
             <Art/>
             <Menu/>
+            <Contact/>
         </main>
     );
 };
