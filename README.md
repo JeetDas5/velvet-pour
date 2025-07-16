@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Velvet Pour** is a modern, interactive website for a cocktail bar located in Los Angeles. The site showcases the
+**Velvet Pour** is a modern, interactive website for a cocktail bar located in Kolkata. The site showcases the
 bar's  
 cocktails, ambiance, menu, and contact information with elegant animations and a fully responsive design.
 
